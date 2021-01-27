@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{AC20368E-44DB-46C7-A9ED-955290B71627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop1", "Workshop1\Workshop1.csproj", "{D08650AD-B67A-4BD4-83AF-424311EDF55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workshop1", "Workshop1\Workshop1.csproj", "{D08650AD-B67A-4BD4-83AF-424311EDF55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetothDemo", "ClassMetothDemo\ClassMetothDemo.csproj", "{3B93B3DB-5659-4136-A0FD-26DA15A6AFCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D08650AD-B67A-4BD4-83AF-424311EDF55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D08650AD-B67A-4BD4-83AF-424311EDF55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D08650AD-B67A-4BD4-83AF-424311EDF55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B93B3DB-5659-4136-A0FD-26DA15A6AFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B93B3DB-5659-4136-A0FD-26DA15A6AFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B93B3DB-5659-4136-A0FD-26DA15A6AFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B93B3DB-5659-4136-A0FD-26DA15A6AFCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
